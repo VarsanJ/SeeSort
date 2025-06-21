@@ -1,5 +1,5 @@
 # SeeSort
-BY: Varsan Jeyakkumar
+AUTHOR: Varsan Jeyakkumar
 RELEASED: June 17th 2025
 
 ### Description
